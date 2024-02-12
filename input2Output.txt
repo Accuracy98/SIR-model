@@ -1,0 +1,149 @@
+Please enter the name of the region file: input2.txt
+Day: 0
+s s s s s s s 
+s s s s s s s 
+s s s i i s s 
+s s s s s s s 
+s s s s s s s 
+s s s s s s s 
+s s s s s s s 
+s s s i s s s
+s s s s s s s
+
+Day: 1
+s s s s s s s
+s s s i i s s
+s s s i i s s
+s s s i i s s
+s s s s s s s
+s s s s s s s
+s s s s s s s
+s s s i s s s
+s s s s s s s
+
+Day: 2
+s s s i i s s
+s s i i i i s
+s s i i i i s
+s s i i i i s
+s s s i i s s
+s s s s s s s
+s s s s s s s
+s s s i s s s
+s s s s s s s
+
+Day: 3
+s s i i i i s
+s i i i i i i
+s i i r r i i
+s i i i i i i
+s s i i i i s
+s s s i i s s
+s s s s s s s
+s s s r s s s
+s s s s s s s
+
+Day: 4
+s i i i i i i
+i i i r r i i
+i i i r r i i
+i i i r r i i
+s i i i i i i
+s s i i i i s
+s s s i i s s
+s s s r s s s
+s s s s s s s
+
+Day: 5
+i i i r r i i
+i i r r r r i
+i i r r r r i
+i i r r r r i
+i i i r r i i
+s i i i i i i
+s s i i i i s
+s s s r i s s
+s s s s s s s
+
+Day: 6
+i i r r r r i
+i r r r r r r
+i r r r r r r
+i r r r r r r
+i i r r r r i
+i i i r r i i
+s i i i i i i
+s s i r i i s
+s s s s s s s
+
+Day: 7
+i r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+i r r r r r r
+i i r r r r i
+i i i r r i i
+s i i r i i i
+s s s i i i s
+
+Day: 8
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+i r r r r r r
+i i r r r r i
+i i i r r i i
+s i i i i i i
+
+Day: 9
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+i r r r r r r
+i i r r r r i
+i i i i i i i
+
+Day: 10
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+i r r r r r r
+i i i r r r i
+
+Day: 11
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+i r r r r r r
+
+Day: 12
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+r r r r r r r
+
+Outbreak Duration: 12 days
+Peak Day: Day 4
+Peak Infectious Count: 33 people
+
+Process finished with exit code 0
