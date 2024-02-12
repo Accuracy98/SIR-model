@@ -1,0 +1,4 @@
+Please enter the name of the region file: inputBad2.txt
+ERROR: There's something wrong with the input file!
+
+Process finished with exit code -2
