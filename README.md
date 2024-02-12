@@ -1,3 +1,4 @@
+# README
 For this project you will be designing and implementing a system to simulate an outbreak across a geographic
 region. Specifically, you will be using a cellular automata, with a Moore neighborhood configuration, to model
 a geographic region, and a SIR model to model the health states of the populace. Your model should visually
